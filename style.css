@@ -1,0 +1,22 @@
+body {
+    background-image: url("body.gif");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+h1,
+h4 {
+    color: white ;
+    font-style: oblique;
+}
+
+h3 {
+    color: white ;
+}
+
